@@ -1,0 +1,66 @@
+[
+  {
+    "name": "الأمانة ترد إلى صاحبها",
+    "category": "التعليم",
+    "points": 0,
+    "description": "",
+    "img": "children_books/education/images/3.png"
+  },
+
+  {
+    "name": "النملة التائهة",
+    "category": "التعليم",
+    "points": 5,
+    "description": "",
+    "img": "children_books/education/images/8.png"
+  },
+
+  {
+    "name": "قصص في الإخلاص",
+    "category": "الأخلاق",
+    "points": 10,
+    "description": "",
+    "img": "children_books/ethics/images/10.png"
+  },
+
+  {
+    "name": "الإمامة",
+    "category": "الأخلاق",
+    "points": 15,
+    "description": "",
+    "img": "children_books/ethics/images/2.png"
+  },
+
+  {
+    "name": "الملاحم مع الروم",
+    "category": "إسلامي",
+    "points": 20,
+    "description": "",
+    "img": "children_books/islamic/images/2.png"
+  },
+
+  {
+    "name": "مكة المكرمة",
+    "category": "إسلامي",
+    "points": 25,
+    "description": "",
+    "img": "children_books/islamic/images/3.png"
+  },
+
+  {
+    "name": "الحمار الكذاب",
+    "category": "قصص",
+    "points": 30,
+    "description": "",
+    "img": "children_books/stories/images/3.png"
+  },
+
+  {
+    "name": "الربان الصغير",
+    "category": "قصص",
+    "points": 35,
+    "description": "",
+    "img": "children_books/stories/images/12.png"
+  }
+
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "السلحفاة والشمام",
+    "category": "التعليم",
+    "points": 0,
+    "description": "",
+    "img": "children_books/education/images/10.png"
+  },
+
+  {
+    "name": "جحا والرسالة البيضاء",
+    "category": "التعليم",
+    "points": 7,
+    "description": "",
+    "img": "children_books/education/images/12.png"
+  },
+
+  {
+    "name": "التصدق بالخاتم",
+    "category": "الأخلاق",
+    "points": 12,
+    "description": "",
+    "img": "children_books/ethics/images/1.png"
+  },
+
+  {
+    "name": "قصص في التواضع",
+    "category": "الأخلاق",
+    "points": 17,
+    "description": "",
+    "img": "children_books/ethics/images/6.png"
+  },
+
+  {
+    "name": "قصص الصحابة",
+    "category": "إسلامي",
+    "points": 22,
+    "description": "",
+    "img": "children_books/islamic/images/8.png"
+  },
+
+  {
+    "name": "فتح الأندلس",
+    "category": "إسلامي",
+    "points": 27,
+    "description": "",
+    "img": "children_books/islamic/images/11.png"
+  },
+
+  {
+    "name": "سندريلا",
+    "category": "قصص",
+    "points": 32,
+    "description": "",
+    "img": "children_books/stories/images/10.png"
+  },
+
+  {
+    "name": "365 حكاية",
+    "category": "قصص",
+    "points": 37,
+    "description": "",
+    "img": "children_books/stories/images/11.png"
+  }
+
+]
